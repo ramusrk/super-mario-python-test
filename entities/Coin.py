@@ -1,3 +1,4 @@
+""" test fork"""
 from copy import copy
 
 from entities.EntityBase import EntityBase
